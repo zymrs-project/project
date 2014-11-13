@@ -1,0 +1,139 @@
+{
+    "animals": [
+		  {
+            "Name": "Black Buck",
+            "ScientificName": "Antilope cervicapra",
+            "Origin": "India",
+            "Location": "India, Nepal, USA, Argentina",
+            "Status": "Endangered ",
+            "Img": "Black_Buck.jpg",
+            "Story": " <p>The blackbuck is an antelope species native to the Indian Subcontinent that has been classified as endangered by IUCN since 2003, as the blackbuck range has decreased sharply during the 20th century. They generally live on open plains in herds of 15 to 20 animals with one dominant male. They are very fast. Speeds of more than 80 km/h (50 mph) have been recorded. Their chief predator was the now extinct Indian cheetah. They are now sometimes preyed upon by wolves and feral dogs. <p>Like most wild animals, the blackbuck is in principle protected in India by the Wildlife Protection Act of 1972. The blackbuck population is stable, with 50,000 native individuals, plus an additional 43,000 descended from individuals introduced to Texas and Argentina. The species can be seen in zoos.  <p>The gray wolf is one of the world's most well researched animals, with probably more books written about it than any other wildlife species. It has a long history of association with humans, having been despised and hunted in most agricultural communities due to its attacks on livestock, while conversely being respected by some Native American tribes. It is the sole ancestor of the dog, which was first domesticated in the Middle East. Although the fear of wolves is prevalent in many human societies, the majority of recorded attacks on people have been attributed to animals suffering from rabies. Non-rabid wolves have attacked and killed people, mainly children, but this is unusual. Hunting and trapping has reduced the species' range to about one third, though its still relatively widespread range and stable population means that the species is not threatened at a global level, and is therefore classified by the IUCN as Least Concern. "
+        },
+        {
+            "Name": "Bengal Tiger",
+            "ScientificName": "Panthera tigris",
+            "Origin": "India",
+            "Location": "India, Bangladesh",
+            "Status": "Endangered",
+            "Img": "Bengal_Tiger.jpg",
+            "Story": "<p> Tigers are the largest members of the cat family and are renowned for their power and strength. <p>There were eight tiger subspecies at one time, but three became extinct during the 20th century. Over the last 100 years, hunting and forest destruction have reduced tiger populations from hundreds of thousands of animals to perhaps fewer than 2,500. Tigers are hunted as trophies, and also for body parts that are used in traditional Chinese medicine. All five remaining tiger subspecies are endangered, and many protection programs are in place. <p>Bengal tigers live in India and are sometimes called Indian tigers. They are the most common tiger and number about half of all wild tigers. Over many centuries they have become an important part of Indian tradition and lore. <p>Tigers live alone and aggressively scent-mark large territories to keep their rivals away. They are powerful nocturnal hunters that travel many miles to find buffalo, deer, wild pigs, and other large mammals. Tigers use their distinctive coats as camouflage (no two have exactly the same stripes). They lie in wait and creep close enough to attack their victims with a quick spring and a fatal pounce. A hungry tiger can eat as much as 60 pounds (27 kilograms) in one night, though they usually eat less. <p>Despite their fearsome reputation, most tigers avoid humans; however, a few do become dangerous maneaters. These animals are often sick and unable to hunt normally, or live in an area where their traditional prey has vanished. <p>Females give birth to litters of two to six cubs, which they raise with little or no help from the male. Cubs cannot hunt until they are 18 months old and remain with their mothers for two to three years, when they disperse to find their own territory. "
+        },
+		{
+            "Name": "Spotted Hyena",
+            "ScientificName": "Crocuta crocuta",
+            "Origin": "Africa",
+            "Location": "Africa",
+            "Status": "Least Concern",
+            "Img": "Spotted_Hyena.jpg",
+            "Story": " <p> The spotted hyena, also known as the laughing hyena or tiger wolf, is a species of hyena native to Sub-Saharan Africa. It is listed as Least Concern by the IUCN on account of its widespread range and large numbers estimated between 27,000 and 47,000 individuals. The species is however experiencing declines outside of protected areas due to habitat loss and poaching. The species may have originated in Asia, and once ranged throughout Europe for at least one million years until the end of the Late Pleistocene. The spotted hyena is the largest member of the Hyaenidae, and is further physically distinguished from other species by its vaguely bear-like build, its rounded ears, its less prominent mane, its spotted pelt, its more dual purposed dentition, its fewer nipples and the presence of a pseudo-penis in the female. It is the only mammalian species to lack an external vaginal opening. <p> The spotted hyena is the most social of the Carnivora in that it has the largest group sizes and most complex social behaviours. Its social organisation is unlike that of any other Carnivore, bearing closer resemblance to that of cercopithecine primates (baboons and macaques) with respect to group-size, hierarchical structure, and frequency of social interaction among both kin and unrelated group-mates. However, the social system of the spotted hyena is openly competitive rather than cooperative, with access to kills, mating opportunities and the time of dispersal for males depending on the ability to dominate other clan-members. Females provide only for their own cubs rather than assist each other, and males display no paternal care. Spotted hyena society is matriarchal; females are larger than males, and dominate them. <p> The spotted hyena is a highly successful animal, being the most common large carnivore in Africa. Its success is due in part to its adaptability and opportunism; it is both an efficient hunter and a scavenger, with the capacity to eat and digest skin, bone and other animal waste. In functional terms, the spotted hyena makes the most efficient use of animal matter of all African carnivores. The spotted hyena displays greater plasticity in its hunting and foraging behaviour than other African carnivores; it hunts alone, in small parties of 2-5 individuals or in large groups. During a hunt, spotted hyenas often run through ungulate herds in order to select an individual to attack. Once selected, their prey is chased over long distance, often several kilometres, at speeds of up to 60 km/h. <p> The spotted hyena has a long history of interaction with humanity; depictions of the species exist from the Upper Paleolithic period, with carvings and paintings from the Lascaux and Chauvet Caves. The species has a largely negative reputation in both Western culture and African folklore. In the former, the species is mostly regarded as ugly and cowardly, while in the latter, it is viewed as greedy, gluttonous, stupid, and foolish, yet powerful and potentially dangerous. The majority of Western perceptions on the species can be found in the writings of Aristotle and Pliny the Elder, though in relatively unjudgemental form. Explicit, negative judgements occur in the Physiologus, where the animal is depicted as a hermaphrodite and grave robber. The IUCN's hyena specialist group identifies the spotted hyena's negative reputation as detrimental to the species' continued survival, both in captivity and the wild."
+        },
+		{
+            "Name": "Golden Eagle",
+            "ScientificName": "Aquila chrysaetos",
+            "Origin": "",
+            "Location": "Central Asia, Europe, North America",
+            "Status": "Least Concern",
+            "Img": "Golden_Eagle.jpg",
+            "Story": "<p>The Golden Eagle is one of the best known birds of prey in the Northern Hemisphere. Like all eagles, it belongs to the family Accipitridae. Once widespread across the Holarctic, it has disappeared from many of the more heavily populated areas. Despite being extirpated from or uncommon in some its former range, the species is still fairly ubiquitous, being present in Eurasia, North America, and parts of Africa. The highest density of nesting Golden Eagles in the world lies in southern Alameda County, California. These birds are dark brown, with lighter golden-brown plumage on their heads and necks. <p> Golden Eagles use their agility and speed combined with extremely powerful talons to snatch up a variety of prey, including rabbits, marmots, ground squirrels, and large mammals such as foxes and young ungulates.[2] They will also eat carrion if live prey is scarce, as well as reptiles. Birds, including large species up to the size of swans and cranes have also been recorded as prey. For centuries, this species has been one of the most highly regarded birds used in falconry, with the Eurasian subspecies having been used to hunt and kill unnatural, dangerous prey such as Gray Wolves (Canis lupus) in some native communities. Due to their hunting prowless, the Golden Eagle is regarded with great mystic reverence in some ancient, tribal cultures.<p> Golden Eagles maintain territories that may be as large as 155 km2 (60 sq mi). They are monogamous and may remain together for several years or possibly for life. Golden Eagles nest in high places including cliffs, trees, or human structures such as telephone poles. They build huge nests to which they may return for several breeding years. Females lay from one to four eggs, and both parents incubate them for 40 to 45 days. Typically, one or two young survive to fledge in about three months. "
+        },
+		{
+            "Name": "Indian Peacock",
+            "ScientificName": "Pavo cristatus",
+            "Origin": "India",
+            "Location": "Indian-subcontinent, Europe, The Americas",
+            "Status": "Least Concern",
+            "Img": "Indian_Peacock.jpg",
+            "Story": " <p>The Indian peacock or peafowl is a large and brightly coloured bird of the pheasant family native to South Asia, but introduced and semi-feral in many other parts of the world. The peacock (male) is predominantly blue with a fan-like crest of spatula-tipped wire-like feathers and is best known for the long train made up of elongated upper-tail covert feathers which bear colourful eyespots. These stiff and elongated feathers are raised into a fan and quivered in a display during courtship. The female lacks the train, has a greenish lower neck and has a duller brown plumage. They are found mainly on the ground in open forest or cultivation where they forage for berries, grains but will also prey on snakes, lizards, and small rodents. Their loud calls make them easy to detect, and in forest areas, often indicate the presence of a predator such as a tiger. They forage on the ground, moving in small groups and will usually try to escape on foot through undergrowth and avoid flying. They will fly up into tall trees to roost, however. It is a bird that is celebrated in Indian and Greek mythology and is the national bird of India."
+        },
+		{
+            "Name": "Gray Wolf",
+            "ScientificName": "Canis lupus",
+            "Origin": "North American, Eurasia",
+            "Location": "Canada, Russia, Poland, Alaska, Ukraine, Slovakia, Italy",
+            "Status": "Least Concern",
+            "Img": "Gray_Wolf.jpg",
+            "Story": " <p> The gray wolf is the largest member of its family, with males averaging 43–45 kg (95–99 lb), and females 36–38.5 kg (79–85 lb). It is similar in general appearance and proportions to a German shepherd or sled dog, but has a larger head, narrower chest, longer legs, straighter tail and bigger paws. Its winter fur is long and bushy, and is usually mottled gray in color, though it can range from nearly pure white, red, or brown to black. <p> Within the genus Canis, the gray wolf represents a more specialised and progressive form than its smaller cousins (the coyote and golden jackal), as demonstrated by its morphological adaptations to hunting large prey, its more gregarious nature and its highly advanced expressive behavior. It is a social animal, travelling in nuclear families consisting of a mated pair, accompanied by the pair's adult offspring. The gray wolf is typically an apex predator throughout its range, with   only humans and tigers posing a serious threat to it. It feeds primarily on large ungulates, though it will also eat smaller animals, livestock, carrion, and garbage. <p> The gray wolf is one of the world's most well researched animals, with probably more books written about it than any other wildlife species. It has a long history of association with humans, having been despised and hunted in most agricultural communities due to its attacks on livestock, while conversely being respected by some Native American tribes. It is the sole ancestor of the dog, which was first domesticated in the Middle East. Although the fear of wolves is prevalent in many human societies, the majority of recorded attacks on people have been attributed to animals suffering from rabies. Non-rabid wolves have attacked and killed people, mainly children, but this is unusual. Hunting and trapping has reduced the species' range to about one third, though its still relatively widespread range and stable population means that the species is not threatened at a global level, and is therefore classified by the IUCN as Least Concern."
+        },
+		{
+            "Name": "European Bison",
+            "ScientificName": "Bison bonasus",
+            "Origin": "Poland",
+            "Location": "Białowieża Forest",
+            "Status": "Endangered",
+            "Img": "European_Bison.jpg",
+            "Story": " <p> The European bison, also known as wisent or the European wood bison, is a Eurasian species of bison. It is the heaviest surviving wild land animal in Europe; a typical European bison is about 2.1 to 3.5 m (7 to 10 ft) long, not counting a tail of 30 to 60 cm (12 to 24 in) long, and 1.6 to 2 m (5 to 7 ft) tall. Weight typically can range from 300 to 920 kg (660 to 2,000 lb), with an occasional big bull to 1,000 kg (2,200 lb) or more. On average, it is slightly lighter in body mass and yet taller at the shoulder than the American bison (Bison bison). Compared to the American species, the Wisent has shorter hair on the neck, head and forequarters, but longer tail and horns. <p> European bison were hunted to extinction in the wild, with the last wild animals being shot in the Białowieża Forest in Eastern Poland in 1919 and in the Western Caucasus in 1927, but have since been reintroduced from captivity into several countries in Europe, all descendants of the Białowieża or lowland European bison. They are now forest-dwelling. They have few predators (besides humans), with only scattered reports from the 19th century of wolf and bear predation. European bison were first scientifically described by Carolus Linnaeus in 1758. Some later descriptions treat the European bison as conspecific with the American bison. It is not to be confused with the aurochs, the extinct ancestor of domestic cattle. <p>  In 1996 the IUCN classified the European bison as an endangered species. It has since been downgraded to a vulnerable species. In the past it was commonly killed to produce hides and drinking horns, especially during the Middle Ages. "
+        },
+		{
+            "Name": "Red Fox",
+            "ScientificName": "Vulpes vulpes",
+            "Origin": "Eurasian",
+            "Location": "Asia, Europe, North America, North Africa, Australia",
+            "Status": "Least Concern",
+            "Img": "Red_Fox.jpg",
+            "Story": " <p>The red fox originated from smaller-sized ancestors from Eurasia during the Middle Villafranchian period and colonised North America shortly after the Wisconsian glaciation. Among the true foxes, the red fox represents a more progressive form in the direction of carnivory. Apart from its large size, the red fox is distinguished from other fox species by its ability to adapt quickly to new environments and, unlike most of its related species, is not listed as endangered anywhere. Despite its name, the species often produces individuals with abnormal colourings, including albinos and melanists. Forty-five subspecies are currently recognised which are divided into two categories: the large northern foxes, and the small, primitive southern foxes of Asia and the Middle East. <p> Red foxes are social animals, whose groups are led by a mated pair which monopolises breeding. Subordinates within a group are typically the young of the mated pair, which remain with their parents to assist in caring for new kits. The species primarily feeds on small rodents, though it may also target leporids, game birds, reptiles, invertebrates and young ungulates. Fruit and vegetable matter is also eaten on occasion. Although the red fox tends to displace or even kill smaller predators, it is nonetheless vulnerable to attack from larger predators, such as wolves, coyotes, golden jackals and medium- and large-sized felines. <p> The species has a long history of association with humans, having been extensively hunted as a pest and furbearer for centuries, as well as being prominently represented in human folklore and mythology. Because of its widespread distribution and large population, the red fox is one of the most important furbearing animals harvested for the fur trade. "
+        },
+		{
+            "Name": "Brown Bear",
+            "ScientificName": "Ursus arctos",
+            "Origin": "Europe",
+            "Location": "Asia, Northern Europe, North America",
+            "Status": "Endangered",
+            "Img": "Brown_Bear.jpg",
+            "Story": " <p>Adult bears generally weigh between 100 and 635 kg (220 and 1,400 lb) and its largest subspecies, the Kodiak bear, rivals the polar bear as the largest member of the bear family and as the largest land-based predator. <p> There are several recognized subspecies within the brown bear species. In North America, two types are generally recognized, the coastal brown bear and the inland grizzly bear, and the two types could broadly define all brown bear subspecies. An adult grizzly living inland in Yukon may weigh as little as 80 kg (180 lb), while an adult brown bear in nearby coastal Alaska living on a steady, nutritious diet of spawning salmon may weigh as much as 680 kg (1,500 lb). The exact number of overall brown subspecies remains in debate. <p> While the brown bear's range has shrunk and it has faced local extinctions, it remains listed as a least concern species by the IUCN with a total population of approximately 200,000. As of 2012, this and the American black bear are the only bear species not classified as threatened by the IUCN. However, the Californian, North African (Atlas bear), and Mexican subspecies were hunted to extinction in the 1870s, 1922, and more recently, respectively, and the not officially recognized Marsican brown bear in central Italy is believed to have a population of just 30 to 40 bears."
+        },
+		{
+            "Name": "Wild Boar",
+            "ScientificName": "Sus scrofa",
+            "Origin": "Europe, North Africa, Asia, Japan, Indonesia, South Africa",
+            "Location": "Asia, Northern Europe, North America",
+            "Status": "Least Concern",
+            "Img": "Wild_Boar.jpg",
+            "Story": " <p>Wild boar, also known as wild pig, is a species of the pig genus Sus, part of the biological family Suidae. The species includes many subspecies. It is the wild ancestor of the domestic pig, an animal with which it freely hybridises. Populations have also been artificially introduced in some parts of the world, most notably the Americas and Australasia, principally for hunting. Elsewhere, populations have also become established after escapes of wild boar from captivity. <p> The Wild Boar is quite a variably sized mammal. In exceptionally large specimens, the species can rival the size of the Giant forest hog, the largest extant species of wild suid. Adult boars can measure from 90 to 200 cm (35 to 79 in) in length, not counting a tail of 15 to 40 cm (5.9 to 16 in), and have a shoulder height of 55 to 110 cm (22 to 43 in). As a whole, their average weight is 50–90 kg (110–200 pounds), though boars show a great deal of weight variation within their geographical ranges. Generally speaking, native Eurasian boars follow Bergmann's rule, with smaller boars nearer the tropics and larger, smaller-eared boars in the North of their range. Mature sows from Southeast Asia and southern India may weigh as little as 44 kg (97 lb). The Manchurian Wild Boar (S. s. ussuricus), the largest subspecies typically weighs between 70 and 180 kg (150 and 400 lb). In central Italy, their weight usually ranges from 80 to 100 kg (180 to 220 lb) while boars shot in Tuscany have been recorded to weigh up to 150 kg (331 lb). An unusually large French specimen shot in Negremont forest in Ardenne in 1999 weighed 227 kg (550 lb). Carpathian boars have been recorded to reach weights of 200 kg (441 lb). Romanian and Russian boars can reach weights of 300 kg (661 lb), while unconfirmed giants reported in early Russian hunting journals have reportedly weighed up to 320 kg (710 lb). "
+        },
+		{
+            "Name": "Tortle",
+            "ScientificName": "",
+            "Origin": "North to South America, Australia, Africa",
+            "Location": "",
+            "Status": "Endangered",
+            "Img": "Tortle.jpg",
+            "Story": " <p>Turtles are reptiles of the order Chelonii or Testudines characterised by a special bony or cartilaginous shell developed from their ribs that acts as a shield. 'Turtle' may either refer to the order as a whole, or to particular Turtle which make up a form taxon that is not monophyletic. <p> The order Chelonii or Testudines includes both extant (living) and extinct species. The earliest known turtles date from 215 million years ago, making turtles one of the oldest reptile groups and a more ancient group than lizards, snakes and crocodiles. Of the many species alive today, some are highly endangered.  "
+        },
+		{
+            "Name": "Perrot",
+            "ScientificName": "Psittacidae",
+            "Origin": "Americas, Africa, Asia, Australia and eastwards across the Pacific Ocean as far as Polynesia",
+            "Location": "",
+            "Status": "Least Concern",
+            "Img": "Perrot.jpg",
+            "Story": " <p>Parrots, also known as psittacines are birds of the roughly 372 species in 86 genera that make up the order Psittaciformes, found in most tropical and subtropical regions. The order is subdivided into three superfamilies: the Psittacoidea ('true' parrots), the Cacatuoidea(cockatoos) and the Strigopoidea (New Zealand parrots). Characteristic features of parrots include a strong, curved bill, an upright stance, strong legs, and clawed zygodactyl feet. Many parrots are vividly coloured, and some are multi-coloured. The plumage of cockatoos ranges from mostly white to mostly black, with a mobile crest of feathers on the tops of their heads. Most parrots exhibit little or no sexual dimorphism. They form the most variably sized bird order in terms of length."
+        },
+		{
+            "Name": "Kangaroo",
+            "ScientificName": "Macropodidae",
+            "Origin": "Australia",
+            "Location": "",
+            "Status": "Endangered ",
+            "Img": "Kangaroo.jpg",
+            "Story": " <p>Kangaroo is a marsupial from the family Macropodidae (macropods, meaning 'large foot'). In common use the term is used to describe the largest species from this family, especially those of the genus Macropus, red kangaroo, antilopine kangaroo, eastern grey kangaroo and western grey kangaroo."
+        },
+		{
+            "Name": "Gorille",
+            "ScientificName": "Gorilla",
+            "Origin": "Tropical or subtropical forests in Africa . (Democratic Republic of the Congo and Rwanda",
+            "Location": "",
+            "Status": "Endangered",
+            "Img": "Gorille.jpg",
+            "Story": " <p>Gorillas comprise the eponymous genus Gorilla, the largest extant genus of primates. They are ground-dwelling, predominantly herbivorous apes that inhabit the forests of central Africa. The genus is divided into two species and either four or five subspecies. The DNA of gorillas is highly similar to that of a human, from 95–99% depending on what is counted, and they are the next closest living relatives to humans after the bonobo and common chimpanzee."
+        },
+		{
+            "Name": "Lion",
+            "ScientificName": "Panthera leo",
+            "Origin": "Europe, Wild lions currently exist in sub-Saharan Africa and in Asia, with anendangered remnant population in Gir Forest National Park in India, having disappeared from North Africa and Southwest Asia in historic times ",
+            "Location": "",
+            "Status": "Endangered",
+            "Img": "Lion2.jpg",
+            "Story": " <p>The lion (Panthera leo) is one of the four big cats in the genus Panthera and a member of the family Felidae. With some males exceeding 250 kg (550 lb) in weight,[4] it is the second-largest living cat after the tiger. Lions live for 10–14 years in the wild, while in captivity they can live longer than 20 years. In the wild, males seldom live longer than 10 years, as injuries sustained from continual fighting with rival males greatly reduce their longevity."
+        }
+    ]
+}

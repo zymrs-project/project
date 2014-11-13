@@ -1,0 +1,463 @@
+/* =============================================================================
+	CSS RESET
+============================================================================= */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, date,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* =============================================================================
+	LAYOUT
+============================================================================= */
+body {
+  color:#ccc;
+  font-size: 100%;
+  font-family: "proxima-nova", "myriad-pro", Helvetica, Arial, sans-serif;
+  background-attachment:fixed;
+}
+
+.container {
+	/* [disabled]margin-left: auto; */
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	height: auto;
+	background: rgba(10, 10, 10, 0.9);
+	box-sizing: border-box;
+	border-radius:10px;
+}
+
+header {
+  box-sizing: border-box;
+  padding: 0px;
+  width: 100%;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+ 
+}
+#banner{
+	width:1200px;
+	height:100px;
+	background-image:url("http://athena.fhict.nl/users/i270018/ZYMRS/images/banner3.jpg");
+}
+#bannerinfo{
+	width:auto;
+	height:20px;
+	background-color:transparent;
+}
+
+nav {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.page {
+  margin: 50px auto 0;
+  width: 1200px;
+}
+
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+  padding: 50px 0;
+}
+
+.clear {
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+}
+.searchinput{
+	width:500px;
+	hight:350px;
+	background-color:#633;
+	margin-left: 15px;
+	border: 1px solid rgba(255, 255, 255, 0.5);
+	border-radius:10px;
+}
+.homeinnerpage {
+  position:absolute;
+  left:610px;
+  top:230px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  width: 600px;
+  height: 320px;
+  margin-left: 5px;
+  padding: 15px 15px 15px 15px;
+  background-color:#669;
+  border-radius:10px;
+}
+.commercialpage{
+	position:relative;
+	left:20px;
+	top: 40px;
+	width:1150px;
+	height:auto;
+	margin:10px;
+	background-color:transparent;
+	
+	
+	
+}
+.searchinput input{
+  outline: none;
+  border: none;
+  font-family: "proxima-nova", "myriad-pro", Helvetica, Arial, sans-serif;
+  background: rgba(150, 150, 150, 0.4);
+  font-size: 14px;
+  border-radius: 20px;
+  padding: 5px 10px;
+  box-sizing: border-box;
+  color: rgba(238, 238, 238, 0.9);
+  box-shadow: 0 1px 1px rgba(240, 240, 240, 0.4);
+  
+  -webkit-transition: width ease 0.3s;
+}
+
+#grouppicture{
+	position: relative;
+	width:auto;
+	height:auto;
+	left:360px;
+	top:-140px;
+	background-image:url(images/group.jpg);
+}
+
+
+/* =============================================================================
+	TYPOGRAPHY
+============================================================================= */
+
+
+h1, h2 {
+  font-family: "adelle", Verdana, sans-serif;
+  margin-bottom: 14em;
+}
+
+h1 {
+  color: #ffa500;
+  font-size: 30px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 22px;
+  margin-top: 3em;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.4em;
+  margin-bottom: 1.4em;
+}
+a {
+	text-decoration: none;
+}
+
+header a {
+  float:right;
+  
+}
+
+header a:hover {
+  text-decoration: none;
+  color:#3F0;
+  background-color:transparent;
+  
+}
+
+/* =============================================================================
+	TABLES (if used)
+============================================================================= */
+table {
+  max-width: 100%;
+  background-color: transparent;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  margin-bottom: 14em;
+}
+
+table th,
+table td {
+  padding: 8px;
+  line-height: 20px;
+  text-align: left;
+  vertical-align: top;
+  border-top: 1px solid #666;
+}
+
+table thead th {
+  vertical-align: bottom;
+  font-weight: bold;
+}
+
+thead tr:first-child th {
+  border-top: 0;
+}
+
+/* =============================================================================
+	HEADER
+============================================================================= */
+header {
+  line-height: 40px;
+  font-family: "adelle", Verdana, sans-serif;
+}
+
+header h1 {
+  color: #eee;
+  font-size: 40px;
+  float: left;
+  margin-bottom: 0;
+}
+
+header h1 a {
+  color: inherit;
+}
+
+header h1 a:hover {
+  text-decoration: none;
+}
+
+header form {
+  float: right;
+}
+
+header input {
+  outline: none;
+  border: none;
+  font-family: "proxima-nova", "myriad-pro", Helvetica, Arial, sans-serif;
+  width: 200px;
+  background: rgba(150, 150, 150, 0.4);
+  font-size: 14px;
+  border-radius: 20px;
+  padding: 5px 10px;
+  box-sizing: border-box;
+  color: rgba(238, 238, 238, 0.9);
+  box-shadow: 0 1px 1px rgba(240, 240, 240, 0.4);
+  
+  -webkit-transition: width ease 0.3s;
+}
+
+header input[type="text"]:focus {
+  width: 300px;
+}
+header input[type="password"]:focus {
+  width: 300px;
+}
+
+header input[type="submit"]:hover {
+	background-color:#099;
+    color:#3F6;
+  
+}
+.searchinput input[type="submit"]:hover {
+  background-color:#099;
+  color:#3F6;
+}
+/* =============================================================================
+	FOOTER
+============================================================================= */
+.members{
+  width:100%;
+  height:auto;
+  background:#333;
+  padding:10px 10px;
+  
+}
+ .members a:link{
+  color:#00F;
+  background-color: transparent;
+  text-decoration: none;
+	 
+ }
+.members a:hover{
+	color:#06C;
+}
+/* =============================================================================
+	NAVIGATION
+============================================================================= */
+nav {
+  font-family: "adelle", Verdana, Helvetica, Arial, sans-serif;
+}
+
+nav ul li {
+  -webkit-transition: background ease-in-out 0.15s;
+  display: inline-block;
+  border-right: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+nav ul li:nth-child(1):hover {
+  background: #ff6666;
+}
+
+nav ul li:nth-child(2):hover {
+  background: #66ccff;
+ 
+}
+
+nav ul li:nth-child(3):hover {
+  background: #cc66ff;
+}
+
+nav ul li:nth-child(4):hover {
+  background: #ffcc66;
+}
+nav ul li:nth-child(5):hover {
+  background: #ffcc36;
+}
+nav ul li a {
+  color: #fff;
+  text-align: center;
+  width: 239px;
+  display: block;
+  line-height: 40px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+nav ul li a:hover {
+  text-decoration:none;
+}
+
+nav ul li:last-child {
+  border-right: none;
+}
+
+nav ul li:last-child a {
+  width: 240px;
+}
+/* =============================================================================
+	Form
+============================================================================= */
+.form{
+	padding: 10px 15px;
+}
+.formcontainer input[type="submit"]:hover{
+	color:#0F9;
+	background-color:#006;
+
+}
+.formcontainer{
+	width:500px;
+	hight:auto;
+	clear: both;
+}
+.formcontainer input {
+        width: 100%;
+        clear: both;
+    }
+.formregister{
+	width:300px;
+	clear:both;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+}
+.registertext{
+	width:300px;
+	height:50px;
+	
+
+/* =============================================================================
+	FOOTER
+============================================================================= */
+footer {
+  line-height: 24px;
+}
+
+/* =============================================================================
+	HOME
+============================================================================= */
+.sectioncarousel {
+  margin: 50px auto 0;
+  width: 860px;
+}
+
+/* ===========================================================================
+	
+============================================================================= */
+
+
+
+
+/* =============================================================================
+	bootstrap
+============================================================================= */
+.btn {
+  outline: none;
+  border: none;
+  font-family: "proxima-nova", "myriad-pro", Helvetica, Arial, sans-serif;
+  width: 200px;
+  background: rgba(150, 150, 150, 04);
+  font-size: 14px;
+  border-radius: 20px;
+  padding: 5px 10px;
+  box-sizing: border-box;
+  color: rgba(238, 238, 238, 09);
+  box-shadow: 0 1px 1px rgba(240, 240, 240, 04);
+  
+  -webkit-transition: width ease 0.3s;
+  }
+
+
+.btn:active
+{
+  background-color: #cccccc \9;
+}
+
+.btn:hover {
+  color: #333333;
+}
+
+.btn:focus {
+  outline: thin dotted #333;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
+
+
+
+
+
+
